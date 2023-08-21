@@ -9,7 +9,8 @@ Sample Input:
 
 Table: customers
 
-![image](https://github.com/vishwasjoshi2019/DSML/assets/98074283/4928b0ba-35e9-4a92-8fd6-e93e6f00057c)
+![image](https://github.com/vishwasjoshi2019/DSML/assets/98074283/6d53fdee-fbd7-46ec-ace0-caada3a5799a)
+
 
 
 Table: orders
